@@ -1,0 +1,80 @@
+[
+  [
+    {
+      "status": "RESULT",
+      "team1": "IND",
+      "team2": "ENG",
+      "score1": "356",
+      "score2": "(34.2/50 ov, T:357) 214",
+      "match_result": "India won by 142 runs"
+    },
+    {
+      "status": "RESULT",
+      "team1": "SA",
+      "team2": "PAK",
+      "score1": "352/5",
+      "score2": "(49/50 ov, T:353) 355/4",
+      "match_result": "Pakistan won by 6 wickets (with 6 balls remaining)"
+    },
+    {
+      "status": "RESULT",
+      "team1": "SL",
+      "team2": "AUS",
+      "score1": "214",
+      "score2": "(33.5/50 ov, T:215) 165",
+      "match_result": "Sri Lanka won by 49 runs"
+    }
+  ],
+  [
+    {
+      "status": "RESULT",
+      "team1": "IND",
+      "team2": "ENG",
+      "score1": "356",
+      "score2": "(34.2/50 ov, T:357) 214",
+      "match_result": "India won by 142 runs"
+    },
+    {
+      "status": "RESULT",
+      "team1": "SA",
+      "team2": "PAK",
+      "score1": "352/5",
+      "score2": "(49/50 ov, T:353) 355/4",
+      "match_result": "Pakistan won by 6 wickets (with 6 balls remaining)"
+    },
+    {
+      "status": "RESULT",
+      "team1": "SL",
+      "team2": "AUS",
+      "score1": "214",
+      "score2": "(33.5/50 ov, T:215) 165",
+      "match_result": "Sri Lanka won by 49 runs"
+    }
+  ],
+  [
+    {
+      "status": "RESULT",
+      "team1": "IND",
+      "team2": "ENG",
+      "score1": "356",
+      "score2": "(34.2/50 ov, T:357) 214",
+      "match_result": "India won by 142 runs"
+    },
+    {
+      "status": "RESULT",
+      "team1": "SA",
+      "team2": "PAK",
+      "score1": "352/5",
+      "score2": "(49/50 ov, T:353) 355/4",
+      "match_result": "Pakistan won by 6 wickets (with 6 balls remaining)"
+    },
+    {
+      "status": "RESULT",
+      "team1": "SL",
+      "team2": "AUS",
+      "score1": "214",
+      "score2": "(33.5/50 ov, T:215) 165",
+      "match_result": "Sri Lanka won by 49 runs"
+    }
+  ]
+]
