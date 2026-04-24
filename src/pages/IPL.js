@@ -2,7 +2,7 @@ import React, { useEffect, useState, useCallback, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 
 const CRICAPI_KEY = process.env.REACT_APP_CRICAPI_KEY;
-const BACKEND = "http://localhost:3001";
+const BACKEND = "https://cricfanzz.onrender.com";
 
 // ✅ CORRECT IPL 2026 Season 19 Points Table (from screenshot)
 const IPL_POINTS_TABLE = [
