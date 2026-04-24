@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 
-const BACKEND = "http://localhost:3001";
+const BACKEND = "https://cricfanzz.onrender.com";
 
 function InfoBadge({ icon, label, value }) {
   if (!value || value === "N/A") return null;
