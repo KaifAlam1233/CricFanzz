@@ -9,7 +9,7 @@ const app = express();
 
 app.use(cors({
   origin: function (origin, callback) {
-    if (!origin || origin.includes("localhost") || origin.includes("127.0.0.1")) {
+    if (!origin || origin.includes("localhost") || origin.includes("127.0.0.1"))|| origin.includes("vercel.app") {
       callback(null, true);
     } else {
       callback(new Error("Not allowed by CORS"));
