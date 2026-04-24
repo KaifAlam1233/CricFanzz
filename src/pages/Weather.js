@@ -12,7 +12,7 @@ export default function Weather() {
     setError("");
     setWeather(null);
     try {
-      const res = await fetch(`http://localhost:3001/fetch-weather/${encodeURIComponent(city)}`);
+      const res = await fetch(`https://cricfanzz.onrender.com/fetch-weather/${encodeURIComponent(city)}`);
       if (!res.ok) throw new Error("Failed to fetch weather");
       const data = await res.json();
       setWeather(data);
