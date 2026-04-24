@@ -2,7 +2,7 @@ import React, { useEffect, useState, useCallback, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 
 const CRICAPI_KEY = process.env.REACT_APP_CRICAPI_KEY;
-const BACKEND = "http://localhost:3001";
+const BACKEND = "https://cricfanzz.onrender.com";
 
 const FLAG_MAP = {
   "india":"🇮🇳","ind":"🇮🇳","pakistan":"🇵🇰","pak":"🇵🇰",
